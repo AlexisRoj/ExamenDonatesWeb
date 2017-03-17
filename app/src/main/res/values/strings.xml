@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">ProyectoFinalUnidadSiete</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="remember_pass">Recordar contraseña</string>
+    <string name="control_donantes">Bienvenido al control de donantes</string>
+    <string name="inicie_secci_n_para_continuar">Inicie sección para continuar</string>
+    <string name="titleName">Control de Donaciones</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="waiting">Por favor espere…</string>
+    <string name="errorLogin">El nombre de usuario o contrseña no son validos, vuelva a intentarlo</string>
+    <string name="crear_usuario">Crear nuevo usuario</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="repetir_contrasena">Repetir contraseña</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="crear_user">Crear usuario</string>
+    <string name="close_seccion">Cerrar sección</string>
+    <string name="eliminarCuenta">Eliminar cuenta</string>
+    <string name="cambiar_contrasena">Cambiar contraseña</string>
+    <string name="contrasena_actual">Contraseña Actual</string>
+    <string name="nueva_contrasena">Nueva contraseña</string>
+    <string name="guardar">Guardar</string>
+    <string name="mensajeEliminarCuenta">¿Realmente desea eliminar su cuenta?</string>
+    <string name="aceptar">aceptar</string>
+    <string name="userDelete">Usuario ha sido eliminado</string>
+    <string name="agrDonanteTitulo">Titulo</string>
+    <string name="agrDonanteId">No. Identificación</string>
+    <string name="agrDonanteNombre">Nombre</string>
+    <string name="agrDonanteApellido">Apellido</string>
+    <string name="agrDonanteEdad">Edad</string>
+    <string name="agrDonantePeso">Peso (kg)</string>
+    <string name="agrDonanteEstatura">Estatura (cm)</string>
+    <string name="agregar">Agregar</string>
+    <string name="agre_donante">Agregar donante</string>
+    <string name="campoVacio">Este campo no puede ser vacio</string>
+    <string name="mensajeFactor">Es necesario selecionar el factor sanguineo</string>
+    <string name="mensajeGrupo">Es necesario selecionar el grupo sanguineo</string>
+    <string name="eliminarDonante">¿Realmente desea eliminar el donante?</string>
+    <string name="tituloMensajeEliminarDonante">Eliminar donante</string>
+    <string name="userActualizado">Usuario registrado correctamente</string>
+    <string name="donantesActualizado">Los datos del donante han sido modificados</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="buscar">Buscar</string>
+    <string name="donantes">Donantes</string>
+    <string name="existeDonante">Este donante ya existe en el sistem</string>
+
+
+    <string-array name="factor_sanguineo">
+        <item>Factor sanguineo</item>
+        <item>RH+</item>
+        <item>RH-</item>
+    </string-array>
+
+    <string-array name="grupo_sanguineo">
+        <item>Grupo sanguineo</item>
+        <item>Tipo A</item>
+        <item>Tipo B</item>
+        <item>Tipo O</item>
+        <item>Tipo AB</item>
+    </string-array>
+
+</resources>
